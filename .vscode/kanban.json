@@ -1,0 +1,63 @@
+{
+    "title": "Kanban",
+    "cols": [
+        {
+            "title": "Bugs",
+            "tasks": [],
+            "id": "hrm2ccp4izjanw3b97y9ufdq",
+            "color": "#eb144c"
+        },
+        {
+            "title": "To-Do",
+            "tasks": [
+                {
+                    "text": "Filter optionbased on a expiration date on indiv stock to save coputing power\n",
+                    "id": "mwroelk4sgmqdel6ju1p4pmp"
+                },
+                {
+                    "text": "Create df or something to store data",
+                    "id": "lei2q99nlryrh62lw1zn2ncz"
+                },
+                {
+                    "text": "Present in Tabloau",
+                    "id": "a5d9ktvp5taqydahizjuef7q"
+                }
+            ],
+            "id": "mfvko8nkq7lfwu8zil2s9dve",
+            "color": "#fcb900"
+        },
+        {
+            "title": "Doing",
+            "tasks": [
+                {
+                    "text": "calcualte greeks\n",
+                    "id": "ouhdjg7qkqehaz8b95mrp0tk"
+                },
+                {
+                    "text": "Barchart uses \n\n- <60 day exp\n- option vol > 100\n- open int > 500\n- delta: 0.20 < x < 0.40\n- ",
+                    "id": "t7qt9ajgz1nzbkyycn9gmdkl"
+                }
+            ],
+            "id": "p0239tknb4n2kut168vrw6ky",
+            "color": "#0693e3"
+        },
+        {
+            "title": "Done",
+            "tasks": [
+                {
+                    "text": "Get all stock sysmbols or most",
+                    "id": "wil2n1j2zc5c2m6438d008dk"
+                },
+                {
+                    "text": "Gather varibles needed to calc options price, and option vairbels\n\n- Stock Price\n- Strike Price\n- Time to Expiration\n- Volatility\n- Interest Rate\n- Dividends\n\nshould be able to use yf for most",
+                    "id": "h4a9ii3salts0b7flcc9d4is"
+                }
+            ],
+            "id": "qqmbd7e0b8jst1eih9mxcst3",
+            "color": "#00d084"
+        }
+    ],
+    "autosave": true,
+    "saveToFile": true,
+    "timestamp": 1725136676430
+}

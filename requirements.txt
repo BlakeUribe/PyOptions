@@ -1,0 +1,7 @@
+pandas
+yfinance 
+numpy
+pandas_datareader
+py_vollib
+yfinance
+numpy
