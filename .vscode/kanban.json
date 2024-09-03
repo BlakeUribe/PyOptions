@@ -11,12 +11,8 @@
             "title": "To-Do",
             "tasks": [
                 {
-                    "text": "Filter optionbased on a expiration date on indiv stock to save coputing power\n",
-                    "id": "mwroelk4sgmqdel6ju1p4pmp"
-                },
-                {
-                    "text": "Create df or something to store data",
-                    "id": "lei2q99nlryrh62lw1zn2ncz"
+                    "text": "create df that houses data for :\n- Values able to similate returns\n- Vlaues able to see delta growth(?)",
+                    "id": "jrr9kqh6zez6i2dx01v3efcs"
                 },
                 {
                     "text": "Present in Tabloau",
@@ -30,12 +26,8 @@
             "title": "Doing",
             "tasks": [
                 {
-                    "text": "calcualte greeks\n",
-                    "id": "ouhdjg7qkqehaz8b95mrp0tk"
-                },
-                {
-                    "text": "Barchart uses \n\n- <60 day exp\n- option vol > 100\n- open int > 500\n- delta: 0.20 < x < 0.40\n- ",
-                    "id": "t7qt9ajgz1nzbkyycn9gmdkl"
+                    "text": "",
+                    "id": "mpy042wh2l0cxfklhl2d9ib8"
                 }
             ],
             "id": "p0239tknb4n2kut168vrw6ky",
@@ -45,12 +37,32 @@
             "title": "Done",
             "tasks": [
                 {
+                    "text": "keep contract name as it is a uniq identify for taboue\n",
+                    "id": "wlplf5sryeia8sovnki4esrd"
+                },
+                {
                     "text": "Get all stock sysmbols or most",
                     "id": "wil2n1j2zc5c2m6438d008dk"
                 },
                 {
+                    "text": "Create df or something to store data",
+                    "id": "lei2q99nlryrh62lw1zn2ncz"
+                },
+                {
                     "text": "Gather varibles needed to calc options price, and option vairbels\n\n- Stock Price\n- Strike Price\n- Time to Expiration\n- Volatility\n- Interest Rate\n- Dividends\n\nshould be able to use yf for most",
                     "id": "h4a9ii3salts0b7flcc9d4is"
+                },
+                {
+                    "text": "Filter optionbased on a expiration date on indiv stock to save coputing power\n",
+                    "id": "mwroelk4sgmqdel6ju1p4pmp"
+                },
+                {
+                    "text": "calcualte greeks\n",
+                    "id": "ouhdjg7qkqehaz8b95mrp0tk"
+                },
+                {
+                    "text": "Barchart uses \n\n- <60 day exp\n- option vol > 100\n- open int > 500\n- delta: 0.20 < x < 0.40\n- ",
+                    "id": "t7qt9ajgz1nzbkyycn9gmdkl"
                 }
             ],
             "id": "qqmbd7e0b8jst1eih9mxcst3",
@@ -59,5 +71,5 @@
     ],
     "autosave": true,
     "saveToFile": true,
-    "timestamp": 1725136676430
+    "timestamp": 1725299588366
 }
